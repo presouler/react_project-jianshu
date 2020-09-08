@@ -46,6 +46,7 @@ const Header = (props)=>{
         <div>
         {props.focused}
         </div>
+        <div></div>
       </Fragment>
   )
 }
